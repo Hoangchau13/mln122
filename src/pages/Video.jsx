@@ -13,7 +13,7 @@ const Video = () => {
       >
         <div className="flex items-center gap-3 mb-4 justify-center">
           <PlayCircle size={40} className="text-secondary" />
-          <h1 className="text-3xl md:text-5xl font-extrabold text-navy">Video Thuyết Trình</h1>
+          <h1 className="text-3xl md:text-5xl font-bold text-navy">Video Thuyết Trình</h1>
         </div>
         <p className="text-gray-600 text-lg max-w-2xl">
           Xin mời xem video bài thực hành / thuyết trình của nhóm về "Các quan hệ lợi ích kinh tế ở Việt Nam".

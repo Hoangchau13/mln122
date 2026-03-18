@@ -51,7 +51,7 @@ const SectionB = () => {
         className="mb-12"
       >
         <div className="flex items-center gap-3 mb-2">
-          <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900">Quan hệ lợi ích kinh tế</h1>
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Quan hệ lợi ích kinh tế</h1>
         </div>
         <p className="text-gray-600 text-lg">Sự tương tác, tính chất 2 mặt và các nhân tố ảnh hưởng</p>
       </motion.div>

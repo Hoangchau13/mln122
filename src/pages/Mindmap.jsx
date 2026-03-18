@@ -32,7 +32,7 @@ const Mindmap = () => {
       >
         <div className="flex items-center gap-3 mb-4 justify-center">
           <Network size={40} className="text-primary" />
-          <h1 className="text-3xl md:text-5xl font-extrabold text-navy">Sơ Đồ Tổng Hợp</h1>
+          <h1 className="text-3xl md:text-5xl font-bold text-navy">Sơ Đồ Tổng Hợp</h1>
         </div>
         <p className="text-gray-600 text-lg max-w-2xl">
           Tổng hợp lại các kiến thức đã học trong chương 5.3 thông qua sơ đồ tư duy (Mindmap).

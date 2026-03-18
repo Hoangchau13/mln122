@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="inline-block p-4 rounded-full bg-red-100 text-primary mb-6">
             <BookOpen size={48} />
           </div>
-          <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 tracking-tight mb-4">
+          <h1 className="text-4xl md:text-6xl font-bold text-gray-900 tracking-tight mb-4">
             Các Quan Hệ <span className="text-primary">Lợi Ích Kinh Tế</span>
             <br /> Ở Việt Nam
           </h1>
